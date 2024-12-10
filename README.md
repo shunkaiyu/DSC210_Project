@@ -23,4 +23,4 @@ https://github.com/savnani5/Depth-Estimation-using-Stereovision
 
 ## Results
 <!-- Image is currently blank/missing -->
-![Combined Results](/figs/combined_images.png)
+![Combined Results](https://imgur.com/KC2W3PE)
