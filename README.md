@@ -15,3 +15,11 @@
 
 ## Reference:
 https://github.com/savnani5/Depth-Estimation-using-Stereovision
+
+## How to Run the Code of SOTA method:
+1) Download depth_anything_v2_vits.pth checkpoint and put it into checkpoints folder.
+
+2) run code in `run.ipynb`.
+
+## Results
+![Combined Results](figs/combined_images.png)
