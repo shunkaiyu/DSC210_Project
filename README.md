@@ -22,4 +22,5 @@ https://github.com/savnani5/Depth-Estimation-using-Stereovision
 2) run code in `run.ipynb`.
 
 ## Results
+<!-- Image is currently blank/missing -->
 ![Combined Results](figs/combined_images.png)
